@@ -1,0 +1,17 @@
+{
+  "name": "react-15-5-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-class": "^15.5.2",
+    "prop-types": "^15.5.6",
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3"
+  }
+}
