@@ -1,17 +1,10 @@
 import React from 'react'
 import { render } from 'react-dom'
-import PropTypes from 'prop-types'
-import createReactClass from 'create-react-class'
+import Test from './components/Test'
 
 
-const App = function()
-{
-    return (
-        <div>test</div>
-    )
-}
 
 render(
-    <App></App>,
+    <Test></Test>,
     document.getElementById('root')
 )
